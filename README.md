@@ -34,16 +34,6 @@
 希望看到的小伙伴多给我提issue，我会尽量回复并文档化和规范化。
 
 
-#### End
-相关的技术说明会写在如下三个地方：  
-* [简书](http://www.jianshu.com/u/13c5fab7db82)
-* [个人博客](http://sunliangliang.com/)
-* [公众号：阿亮私语]  
- 
-
-
-![](http://ovheeg7ro.bkt.clouddn.com/aLiangcode.jpg)
-
 
 
     
